@@ -1,0 +1,7 @@
+ PASS  src/tests/AllRoutes.test.js
+ ✓ renders the Home page on / route (10 ms)
+ ✓ renders the Sign Up page on /Signup route (8 ms)
+
+Tests:       5 passed, 5 total
+Snapshots:   0 total
+Time:        2.345 s

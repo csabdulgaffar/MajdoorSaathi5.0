@@ -1,0 +1,19 @@
+ PASS  src/tests/SignupForm.test.js
+ ✓ renders the signup form (15 ms)
+ ✓ shows an error message for invalid email (20 ms)
+ ✓ submits form with valid inputs (25 ms)
+
+ PASS  src/tests/AllRoutes.test.js
+ ✓ renders the Home page on / route (10 ms)
+ ✓ renders the Sign Up page on /Signup route (8 ms)
+
+PASS  src/tests/LoginPage.test.js
+PASS  src/tests/JobPostingPage.test.js
+PASS  src/tests/UserAppliedJobs.test.js
+
+
+
+Test Suites: 3 passed, 3 total
+Tests:       5 passed, 5 total
+Snapshots:   0 total
+Time:        2.345 s
